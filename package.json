@@ -12,7 +12,7 @@
     "node": ">=0.10.30"
   },
   "dependencies": {
-    "hoek": "^2.6.x",
+    "hoek": "git://github.com/HelloWallet/hoek.git#22fa7c4ac9fddfba57e8c550a51f59e063c1380d",
     "topo": "1.x.x",
     "isemail": "1.x.x"
   },
