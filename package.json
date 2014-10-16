@@ -12,7 +12,7 @@
     "node": ">=0.10.30"
   },
   "dependencies": {
-    "hoek": "^2.2.x",
+    "hoek": "^2.6.x",
     "topo": "1.x.x",
     "isemail": "1.x.x"
   },
